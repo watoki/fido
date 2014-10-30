@@ -1,0 +1,17 @@
+{
+    "name": "watoki/fido",
+    "description": "Asset fetcher for PHP",
+    "keywords": ["asset", "composer", "watoki"],
+    "homepage": "http://github.com/rtens/fido",
+    "authors": [
+        {
+            "name": "Nikolas Martens",
+            "email": "Nikolas.M@rtens.org",
+            "homepage": "http://rtens.org"
+        }
+    ],
+    "require": {
+        "rtens/fido": "*"
+    },
+    "minimum-stability": "dev"
+}
